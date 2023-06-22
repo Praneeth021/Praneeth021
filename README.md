@@ -1,7 +1,71 @@
 <div align="center">
-    <img src="./hey.png" align="right" alt="Bitmoji Avatar" width="200px">
-    <h1 align="left">Hi there, I'm Praneeth Kadampally 👋</h1>
+  <img src="./hey.png" align="right" alt="Bitmoji Avatar" width="200px">
+  <h1 align="left" style="animation: fade-in 2s ease-out;">Hi there, I'm Praneeth Kadampally 👋</h1>
 </div>
+
+<style>
+  @keyframes fade-in {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  /* Header styles */
+  h1 {
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #333;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Section heading styles */
+  h3 {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  /* Skill icons */
+  img[title] {
+    margin: 10px;
+    filter: grayscale(50%);
+    transition: filter 0.3s ease-in-out;
+  }
+  
+  img[title]:hover {
+    filter: grayscale(0%);
+  }
+  
+  /* Project and achievement styles */
+  ul {
+    margin-left: 20px;
+    list-style-type: disc;
+    color: #333;
+  }
+  
+  /* LinkedIn button style */
+  .linkedin-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0e76a8;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .linkedin-button:hover {
+    background-color: #075d89;
+  }
+</style>
 
 ## About Me
 - 🎓 Bachelor of Engineering in Information Technology with a CGPA of 8.91.
