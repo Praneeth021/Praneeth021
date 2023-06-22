@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="./hey.png" align="right" alt="Bitmoji Avatar" width="200px">
-  <h1 align="left" style="animation: fade-in 2s ease-out;">Hi there, I'm Praneeth Kadampally 👋</h1>
-</div>
-
 <style>
   @keyframes fade-in {
     0% { opacity: 0; transform: translateY(-20px); }
@@ -66,6 +61,12 @@
     background-color: #075d89;
   }
 </style>
+
+<div align="center">
+  <img src="./hey.png" align="right" alt="Bitmoji Avatar" width="200px">
+  <h1 align="left" style="animation: fade-in 2s ease-out;">Hi there, I'm Praneeth Kadampally 👋</h1>
+</div>
+
 
 ## About Me
 - 🎓 Bachelor of Engineering in Information Technology with a CGPA of 8.91.
