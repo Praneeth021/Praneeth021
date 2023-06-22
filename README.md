@@ -11,56 +11,59 @@
 - 📚 Skilled in databases such as MySQL and Oracle.
 
 ## Experience
-### Software Engineer at VISA Inc.
-- Working on the Product and Reliability Engineering Team.
-
-### Software Engineer Program Intern at J.P Morgan Chase & Co.
-- Developed the Credit Extension and Approvals project.
-
-### Software Engineer Intern at J.P Morgan Chase & Co.
-- Worked on implementing Microservices architecture for consumer applications.
-
-### Backend Developer Intern at AIDOS Business Solutions PVT.LTD.
-- Worked on multiple internal projects.
+- **Software Engineer** at VISA Inc. (Product and Reliability Engineering Team)
+- **Software Engineer Program Intern** at J.P Morgan Chase & Co. (Credit Extension and Approvals project)
+- **Software Engineer Intern** at J.P Morgan Chase & Co. (Microservices architecture for consumer applications)
+- **Backend Developer Intern** at AIDOS Business Solutions PVT.LTD. (Multiple internal projects)
 
 ## Skills
-### Programming Languages
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48px" title="C">
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48px" title="C++">
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48px" title="Python">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48px" title="Java">
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48px" title="JavaScript">
+<div align="center">
+  <h3>Programming Languages:</h3>
+  <img src="https://img.icons8.com/color/24/000000/c-programming.png" alt="C" title="C">
+  <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png" alt="C++" title="C++">
+  <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" title="Python">
+  <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" alt="Java" title="Java">
+  <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" title="JavaScript">
+</div>
 
-### Web Technologies
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48px" title="HTML">
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48px" title="CSS">
-<img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" width="48px" title="Flask">
-<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48px" title="Django">
+<div align="center">
+  <h3>Web Technologies:</h3>
+  <img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML" title="HTML">
+  <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS" title="CSS">
+  <img src="https://img.icons8.com/fluency/24/000000/flask.png" alt="Flask" title="Flask">
+  <img src="https://img.icons8.com/color/24/000000/django.png" alt="Django" title="Django">
+</div>
 
-### Frameworks & Tools
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Springboot" width="48px" title="Springboot">
-<img src="https://img.icons8.com/office/48/000000/react.png" alt="React" width="48px" title="React">
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48px" title="Docker">
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="48px" title="Kubernetes">
+<div align="center">
+  <h3>Frameworks & Tools:</h3>
+  <img src="https://img.icons8.com/color/24/000000/spring-logo.png" alt="Springboot" title="Springboot">
+  <img src="https://img.icons8.com/office/24/000000/react.png" alt="React" title="React">
+  <img src="https://img.icons8.com/color/24/000000/docker.png" alt="Docker" title="Docker">
+  <img src="https://img.icons8.com/color/24/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes">
+</div>
 
-### Other Tools
-<img src="icons/jupyter.png" alt="Jupyter" width="48px" title="Jupyter">
-<img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" width="48px" title="IntelliJ">
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48px" title="Git">
-<img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="48px" title="GitHub">
-<img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="48px" title="Jenkins">
-<img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" width="48px" title="Splunk">
-<img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="48px" title="Ansible">
-<img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="48px" title="Android Studio">
+<div align="center">
+  <h3>Other Tools:</h3>
+  <img src="icons/jupyter.png" alt="Jupyter" title="Jupyter">
+  <img src="https://img.icons8.com/color/24/000000/intellij-idea.png" alt="IntelliJ" title="IntelliJ">
+  <img src="https://img.icons8.com/color/24/000000/git.png" alt="Git" title="Git">
+  <img src="https://img.icons8.com/color/24/000000/github--v1.png" alt="GitHub" title="GitHub">
+  <img src="https://img.icons8.com/color/24/000000/jenkins.png" alt="Jenkins" title="Jenkins">
+  <img src="https://img.icons8.com/color/24/000000/splunk.png" alt="Splunk" title="Splunk">
+  <img src="https://img.icons8.com/color/24/000000/ansible.png" alt="Ansible" title="Ansible">
+  <img src="https://img.icons8.com/color/24/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio">
+</div>
 
-### Databases
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48px" title="MySQL">
-<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="48px" title="Oracle">
+<div align="center">
+  <h3>Databases:</h3>
+  <img src="https://img.icons8.com/color/24/000000/mysql-logo.png" alt="MySQL" title="MySQL">
+  <img src="https://img.icons8.com/color/24/000000/oracle-logo.png" alt="Oracle" title="Oracle">
+</div>
 
 ## Projects
-- Malicious Web Page Detection 🕷️: Developed a model using Python, Django, and TensorFlow to detect malicious web pages.
-- Stu-Feed (Mobile Application) 📱: Android app with integrated Machine Learning Algorithm for sentiment analysis of student feedback.
-- Voice Prescription (Web App) 🎤: Web application built with Django and MySQL to streamline the prescription process for doctors.
+- **Malicious Web Page Detection** 🕷️: Developed a model using Python, Django, and TensorFlow to detect malicious web pages.
+- **Stu-Feed (Mobile Application)** 📱: Android app with integrated Machine Learning Algorithm for sentiment analysis of student feedback.
+- **Voice Prescription (Web App)** 🎤: Web application built with Django and MySQL to streamline the prescription process for doctors.
 
 ## Achievements
 - 🏆 Finalist at Code for Good Hackathon - 2020 conducted by J.P Morgan & Chase.
