@@ -125,6 +125,9 @@
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="48px" title="Oracle">
 </div>
 
+## GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praneeth021&show_icons=true&theme=radical)
+
 ## Projects
 - Malicious Web Page Detection 🕷️: Developed a model using Python, Django, and TensorFlow to detect malicious web pages.
 - Stu-Feed (Mobile Application) 📱: Android app with integrated Machine Learning Algorithm for sentiment analysis of student feedback.
