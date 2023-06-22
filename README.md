@@ -1,7 +1,6 @@
-# Hi there, I'm Praneeth Kadampally 👋
-
-<div align="right">
+<div align="center">
     <img src="./hey.png" alt="Bitmoji Avatar" width="200px">
+    <h1 align="left">Hi there, I'm Praneeth Kadampally 👋</h1>
 </div>
 
 ## About Me
@@ -18,42 +17,48 @@
 - Backend Developer Intern at AIDOS Business Solutions PVT.LTD., where I worked on multiple internal projects.
 
 ## Skills
-- Programming Languages: 
-  - ![C](icons/c.png) C
-  - ![C++](icons/cpp.png) C++
-  - ![Python](icons/python.png) Python
-  - ![Java](icons/java.png) Java
-  - ![JavaScript](icons/javascript.png) JavaScript
-  
-- Web Technologies: 
-  - ![HTML](icons/html.png) HTML
-  - ![CSS](icons/css.png) CSS
-  - ![Bootstrap](icons/bootstrap.png) Bootstrap
-  - ![Flask](icons/flask.png) Flask
-  - ![Django](icons/django.png) Django
-  
-- Frameworks & Tools: 
-  - ![Spring](icons/spring.png) Spring
-  - ![Springboot](icons/springboot.png) Springboot
-  - ![React](icons/react.png) React
-  - ![Docker](icons/docker.png) Docker
-  - ![Kubernetes](icons/kubernetes.png) Kubernetes
+<div align="center">
+  <h3>Programming Languages:</h3>
+  <img src="https://icons8.com/icon/JRi615uFErMu/c" alt="C" width="48px" title="C">
+  <img src="https://icons8.com/icon/TpULddJc4gTh/c%2B%2B" alt="C++" width="48px" title="C++">
+  <img src="https://icons8.com/icon/13441/python" alt="Python" width="48px" title="Python">
+  <img src="https://icons8.com/icon/13679/java" alt="Java" width="48px" title="Java">
+  <img src="https://icons8.com/icon/108784/javascript" alt="JavaScript" width="48px" title="JavaScript">
+</div>
 
-- Other Tools:
-  - ![Jupyter](icons/jupyter.png) Jupyter
-  - ![IntelliJ](icons/intellij.png) IntelliJ
-  - ![Git](icons/git.png) Git
-  - ![GitHub](icons/github.png) GitHub
-  - ![Jenkins](icons/jenkins.png) Jenkins
-  - ![Splunk](icons/splunk.png) Splunk
-  - ![Ansible](icons/ansible.png) Ansible
-  - ![Android Studio](icons/android-studio.png) Android Studio
-  - ![SQL Developer](icons/sql-developer.png) SQL Developer
-  - ![ServiceNow](icons/servicenow.png) ServiceNow
+<div align="center">
+  <h3>Web Technologies:</h3>
+  <img src="https://icons8.com/icon/20909/html-5" alt="HTML" width="48px" title="HTML">
+  <img src="https://icons8.com/icon/21278/css3" alt="CSS" width="48px" title="CSS">
+  <img src="https://icons8.com/icon/ewGOClUtmFX4/flask" alt="Flask" width="48px" title="Flask">
+  <img src="https://icons8.com/icon/qV-JzWYl9dzP/django" alt="Django" width="48px" title="Django">
+</div>
 
-- Databases:
-  - ![MySQL](icons/mysql.png) MySQL
-  - ![Oracle](icons/oracle.png) Oracle
+<div align="center">
+  <h3>Frameworks & Tools:</h3>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Springboot" width="48px" title="Springboot">
+  <img src="https://img.icons8.com/office/48/000000/react.png" alt="React" width="48px" title="React">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48px" title="Docker">
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="48px" title="Kubernetes">
+</div>
+
+<div align="center">
+  <h3>Other Tools:</h3>
+  <img src="icons/jupyter.png" alt="Jupyter" width="48px" title="Jupyter">
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ" width="48px" title="IntelliJ">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48px" title="Git">
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="48px" title="GitHub">
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="48px" title="Jenkins">
+  <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" width="48px" title="Splunk">
+  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="48px" title="Ansible">
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="48px" title="Android Studio">
+</div>
+
+<div align="center">
+  <h3>Databases:</h3>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="48px" title="MySQL">
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="48px" title="Oracle">
+</div>
 
 ## Projects
 - Malicious Web Page Detection 🕷️: Developed a model using Python, Django, and TensorFlow to detect malicious web pages.
@@ -69,5 +74,3 @@
 Feel free to explore my repositories and connect with me on LinkedIn!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneethk021/)
-
-
