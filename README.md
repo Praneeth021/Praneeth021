@@ -1,14 +1,14 @@
 <div align="center">
-    <img src="./hey.png" alt="Bitmoji Avatar" width="200px">
+    <img src="./hey.png" align="right" alt="Bitmoji Avatar" width="200px">
     <h1 align="left">Hi there, I'm Praneeth Kadampally 👋</h1>
 </div>
 
 ## About Me
-🎓 Bachelor of Engineering in Information Technology with a CGPA of 8.91.
-💼 Software Engineer at VISA Inc.
-💻 Experienced in C, C++, Python, Java, JavaScript, and various web technologies.
-🛠️ Proficient in tools like Git, GitHub, Jupyter, IntelliJ, Jenkins, and more.
-📚 Skilled in databases such as MySQL and Oracle.
+- 🎓 Bachelor of Engineering in Information Technology with a CGPA of 8.91.
+- 💼 Software Engineer at VISA Inc.
+- 💻 Experienced in C, C++, Python, Java, JavaScript, and various web technologies.
+- 🛠️ Proficient in tools like Git, GitHub, Jupyter, IntelliJ, Jenkins, and more.
+- 📚 Skilled in databases such as MySQL and Oracle.
 
 ## Experience
 - Software Engineer at VISA Inc., working on the Product and Reliability Engineering Team.
@@ -19,19 +19,19 @@
 ## Skills
 <div align="center">
   <h3>Programming Languages:</h3>
-  <img src="https://icons8.com/icon/JRi615uFErMu/c" alt="C" width="48px" title="C">
-  <img src="https://icons8.com/icon/TpULddJc4gTh/c%2B%2B" alt="C++" width="48px" title="C++">
-  <img src="https://icons8.com/icon/13441/python" alt="Python" width="48px" title="Python">
-  <img src="https://icons8.com/icon/13679/java" alt="Java" width="48px" title="Java">
-  <img src="https://icons8.com/icon/108784/javascript" alt="JavaScript" width="48px" title="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48px" title="C">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48px" title="C++">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48px" title="Python">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48px" title="Java">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48px" title="JavaScript">
 </div>
 
 <div align="center">
   <h3>Web Technologies:</h3>
-  <img src="https://icons8.com/icon/20909/html-5" alt="HTML" width="48px" title="HTML">
-  <img src="https://icons8.com/icon/21278/css3" alt="CSS" width="48px" title="CSS">
-  <img src="https://icons8.com/icon/ewGOClUtmFX4/flask" alt="Flask" width="48px" title="Flask">
-  <img src="https://icons8.com/icon/qV-JzWYl9dzP/django" alt="Django" width="48px" title="Django">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48px" title="HTML">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48px" title="CSS">
+  <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" width="48px" title="Flask">
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="48px" title="Django">
 </div>
 
 <div align="center">
