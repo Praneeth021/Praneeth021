@@ -17,7 +17,7 @@
 - **Backend Developer Intern** at AIDOS Business Solutions PVT.LTD. (Multiple internal projects)
 
 ## Skills
-<div align="center">
+<div align="center" style="display: flex;">
   <h3>Programming Languages:</h3>
   <div style="display: flex; justify-content: center;">
     <img src="https://img.icons8.com/color/24/000000/c-programming.png" alt="C" title="C">
