@@ -18,8 +18,8 @@
 
 ## Skills
 <div align="center" style="display: flex;">
-  <h3>Programming Languages:</h3>
-  <div style="display: flex; justify-content: center;">
+  <h3 style="margin: 0; padding: 0;">Programming Languages:</h3>
+  <div style="display: flex; justify-content: center; align-items: center; margin-left: 10px;">
     <img src="https://img.icons8.com/color/24/000000/c-programming.png" alt="C" title="C">
     <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png" alt="C++" title="C++">
     <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" title="Python">
@@ -28,9 +28,9 @@
   </div>
 </div>
 
-<div align="center">
-  <h3>Web Technologies:</h3>
-  <div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex;">
+  <h3 style="margin: 0; padding: 0;">Web Technologies:</h3>
+  <div style="display: flex; justify-content: center; align-items: center; margin-left: 10px;">
     <img src="https://img.icons8.com/color/24/000000/html-5.png" alt="HTML" title="HTML">
     <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS" title="CSS">
     <img src="https://img.icons8.com/fluency/24/000000/flask.png" alt="Flask" title="Flask">
@@ -38,9 +38,9 @@
   </div>
 </div>
 
-<div align="center">
-  <h3>Frameworks & Tools:</h3>
-  <div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex;">
+  <h3 style="margin: 0; padding: 0;">Frameworks & Tools:</h3>
+  <div style="display: flex; justify-content: center; align-items: center; margin-left: 10px;">
     <img src="https://img.icons8.com/color/24/000000/spring-logo.png" alt="Springboot" title="Springboot">
     <img src="https://img.icons8.com/office/24/000000/react.png" alt="React" title="React">
     <img src="https://img.icons8.com/color/24/000000/docker.png" alt="Docker" title="Docker">
@@ -48,9 +48,9 @@
   </div>
 </div>
 
-<div align="center">
-  <h3>Other Tools:</h3>
-  <div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex;">
+  <h3 style="margin: 0; padding: 0;">Other Tools:</h3>
+  <div style="display: flex; justify-content: center; align-items: center; margin-left: 10px;">
     <img src="https://img.icons8.com/color/24/000000/jupyter.png" alt="Jupyter" title="Jupyter">
     <img src="https://img.icons8.com/color/24/000000/intellij-idea.png" alt="IntelliJ" title="IntelliJ">
     <img src="https://img.icons8.com/color/24/000000/git.png" alt="Git" title="Git">
@@ -62,9 +62,9 @@
   </div>
 </div>
 
-<div align="center">
-  <h3>Databases:</h3>
-  <div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex;">
+  <h3 style="margin: 0; padding: 0;">Databases:</h3>
+  <div style="display: flex; justify-content: center; align-items: center; margin-left: 10px;">
     <img src="https://img.icons8.com/color/24/000000/mysql-logo.png" alt="MySQL" title="MySQL">
     <img src="https://img.icons8.com/color/24/000000/oracle-logo.png" alt="Oracle" title="Oracle">
   </div>
